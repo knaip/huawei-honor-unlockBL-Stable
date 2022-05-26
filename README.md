@@ -1,5 +1,13 @@
 # huawei-honor-unlock-bootloader
 
+I know that the code is horrible to read, and you should not have an unexpected error because the code is not designed to. 
+It's a basic script I made to unlock during many hours the bootloader of my Honor 5x and 8x several years ago, after huawei closed their official website.
+And I put it on github to send it to a friend.
+
+Today, this script is no longer functional, Huawei bootloader phones has additional security to block the bruteforce.
+
+---
+
 ## Summary
 
 After closing the official EMUI website,
